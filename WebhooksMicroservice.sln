@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebhooksMicroservice", "WebhooksMicroservice\WebhooksMicroservice.csproj", "{6413719C-D025-4F94-AB49-C77BDC2C8C4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementy rozwiązania", "Elementy rozwiązania", "{CD5EC419-4B58-4158-8A60-46DA3629D90B}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6413719C-D025-4F94-AB49-C77BDC2C8C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6413719C-D025-4F94-AB49-C77BDC2C8C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6413719C-D025-4F94-AB49-C77BDC2C8C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6413719C-D025-4F94-AB49-C77BDC2C8C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A2691EF-D9C1-4B60-BE1C-833106B4A445}
+	EndGlobalSection
+EndGlobal
